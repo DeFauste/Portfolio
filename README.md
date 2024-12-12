@@ -1,19 +1,19 @@
 # Portfolio
 
-+ [Ally](https://turbolaser.itch.io/ally) [GitHub](https://github.com/CrazyMidnightDisplayStudio/SibJamTemplate.git)
++ [Ally](https://turbolaser.itch.io/ally)  [GitHub](https://github.com/CrazyMidnightDisplayStudio/SibJamTemplate.git)
 
   В данном проекте из ключевых механик отвечал за:
   1. Добаление и настройку звуков. Работа со звуком происходит с использованием аудиосервиса, который внедряется посредством Zenject, что позволяет быстро и гибко настраивать звук.
   2. Взаимодействие с интерактивными объектами, по средством нажатия кнопки мыши.
   3. Popup система. Так же как и звук, Popup система реализована по средством сервиса. Важная особенность, что она работает без Canvas и при вызове нового popup, если есть в стеке, берется свободный, что экономит время и ресурсы.
   4. 
-+ [Spongyyy](https://turbolaser.itch.io/spongyyy) [GitHub](https://github.com/DeFauste/IndiconGame.git)
++ [Spongyyy](https://turbolaser.itch.io/spongyyy)  [GitHub](https://github.com/DeFauste/IndiconGame.git)
   
    В данном проекте из ключевых механик отвечал за:
   1. За взаимодествие с жидкостью.
   2. Механику увеличения и уменьшения персонажа относительно колличества впитанной жидкости.
  
-+ [Burden](https://turbolaser.itch.io/burden)
++ [Burden](https://turbolaser.itch.io/burden) [GitHub](https://github.com/erosrolf/GameOpenLab2024.git)
   
   В данном проекте из ключевых механик отвечал за:
   1. Взаимодействие с интерактивными объектами, по средством нажатия кнопки мыши.
